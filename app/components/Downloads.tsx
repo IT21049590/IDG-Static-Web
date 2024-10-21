@@ -1,6 +1,6 @@
 import React from 'react'
 import { PinContainer } from './ui/3d-pin'
-import Image from 'next/image'
+//import Image from 'next/image'
 
 const Downloads = () => {
     return (

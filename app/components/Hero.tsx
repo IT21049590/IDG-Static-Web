@@ -1,7 +1,7 @@
 import React from "react";
 import { AuroraBackground } from "./ui/aurora-background";
 import { TypewriterEffect } from "./ui/typewriter-effect";
-import { button } from "framer-motion/client";
+//import { button } from "framer-motion/client";
 import Link from "next/link";
 
 const Hero = () => {
