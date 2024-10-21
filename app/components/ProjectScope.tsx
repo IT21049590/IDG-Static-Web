@@ -99,7 +99,7 @@ const ProjectScope = () => {
                         {
                             title: 'Identification & Classification',
                             description:
-                                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+                                'Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.',
                         },
                         {
                             title: 'Severity Assessment',
