@@ -61,12 +61,12 @@ const ProjectScope = () => {
                             <h5 className="text-2xl font-semibold text-purple-400 mb-2">References</h5>
                             <p className="text-gray-300 text-xs">
                                 [1] M. Takac, J. Collett, K. J. Blom, R. Conduit, I. Rehm, and A. De Foe, “Public speaking anxiety decreases within repeated virtual reality training sessions,” PLoS ONE, vol. 14, no. 5, p. e0216288, May 2019, doi: 10.1371/journal.pone.0216288. <br/>
-                                [2] R. H. Ennis, "Critical Thinking across the Curriculum: A Vision," Topoi, vol. 37, pp. 165-184, 2018. DOI: 10.1007/s11245-017-9476-0.<br/>
-                                [3] S. Triantafyllou, T. Sapounidis, and Y. Farhaoui, "Gamification and Computational Thinking in Education: A Systematic Literature Review," Proceedings of the 2024 SCT Conference, 2024. DOI: 10.56294/sctconf2024659.<br/>
-                                [4] Z. Qu, J. Liu, L. Che, Y. Su, and W. Zhang, "Research on the Application of Gamification Programming Teaching for High School Students’ Computational Thinking Development," 2023 International Conference on Educational Innovation and Technology (ICEIT), 2023. DOI: 10.1109/ICEIT57125.2023.10107843. <br/>
+                                [2] R. H. Ennis, &quot;Critical Thinking across the Curriculum: A Vision,&quot; Topoi, vol. 37, pp. 165-184, 2018. DOI: 10.1007/s11245-017-9476-0.<br/>
+                                [3] S. Triantafyllou, T. Sapounidis, and Y. Farhaoui, &quot;Gamification and Computational Thinking in Education: A Systematic Literature Review,&quot; Proceedings of the 2024 SCT Conference, 2024. DOI: 10.56294/sctconf2024659.<br/>
+                                [4] Z. Qu, J. Liu, L. Che, Y. Su, and W. Zhang, &quot;Research on the Application of Gamification Programming Teaching for High School Students’ Computational Thinking Development,&quot; 2023 International Conference on Educational Innovation and Technology (ICEIT), 2023. DOI: 10.1109/ICEIT57125.2023.10107843. <br/>
                                 [5] Xi, N., & Hamari, J. (2020). Does gamification affect brand engagement and equity? A study in online brand communities. Journal of Business Research, 109,449–460. https://doi.org/10.1016/j.jbusres.2019.11.058. <br/>
-                                [6] K.-W. Chu and D. M. Kennedy, "Using online collaborative tools for groups to co-construct knowledge," Online Information Review, vol. 35, no. 4, pp. 581-597, 2011, doi: 10.1108/14684521111161945. <br/>
-                                [7] S. Smith, "Canva in Creative Writing Courses: Student Perceptions and Challenges," Children and Libraries, vol. 17, no. 4, pp. 13-18, 2020, doi: 10.5260/chara.17.4.13.
+                                [6] K.-W. Chu and D. M. Kennedy, &quot;Using online collaborative tools for groups to co-construct knowledge,&quot; Online Information Review, vol. 35, no. 4, pp. 581-597, 2011, doi: 10.1108/14684521111161945. <br/>
+                                [7] S. Smith, &quot;Canva in Creative Writing Courses: Student Perceptions and Challenges,&quot; Children and Libraries, vol. 17, no. 4, pp. 13-18, 2020, doi: 10.5260/chara.17.4.13.
                             </p>
                         </div>
                     </div>
