@@ -81,7 +81,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/IDG-Static-Web/Pravini.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Pravini.jpg" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Wickramanayake V.P.P</CardTitle>
                         <CardDescription>
