@@ -10,7 +10,7 @@ const AboutUs = () => {
 
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 mt-10">
                 <Card>
-                    <img src="/IDG-Static-Web/NuwanSir.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/NuwanSir.JPG" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Dr. Nuwan Kodagoda</CardTitle>
                         <CardDescription>
@@ -25,7 +25,7 @@ const AboutUs = () => {
                 </Card>
                 <Card>
 
-                    <img src="/IDG-Static-Web/JennyMiss.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/JennyMiss.JPG" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Ms. Jenny Krishara</CardTitle>
                         <CardDescription>
@@ -39,7 +39,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/IDG-Static-Web/Hiruna.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Hiruna.JPG" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Lalanga S.P.H</CardTitle>
                         <CardDescription>
@@ -53,7 +53,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/IDG-Static-Web/Ravishka.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Ravishka.JPG" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Ranaweera G.R.D</CardTitle>
                         <CardDescription>
@@ -67,7 +67,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/IDG-Static-Web/Maneesha.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Maneesha.JPG" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Karunarathna K.M.P.M</CardTitle>
                         <CardDescription>
@@ -81,7 +81,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/IDG-Static-Web/Pravini.jpg" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Pravini.jpg" alt="Team Member" width="150" height="150" />
                     <div className="p-4">
                         <CardTitle>Wickramanayake V.P.P</CardTitle>
                         <CardDescription>
