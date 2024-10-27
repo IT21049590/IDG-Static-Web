@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardImage, CardTitle, CardDescription, CardFooter } from "./ui/AboutUsCard";
+import { Card, CardTitle, CardDescription, CardFooter } from "./ui/AboutUsCard";
 
 const AboutUs = () => {
     return (
