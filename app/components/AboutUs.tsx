@@ -24,7 +24,8 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/IDG-Static-Web/JennyMiss.JPG" alt="Team Member" />
+                    
+                    <img src="/IDG-Static-Web/JennyMiss.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ms. Jenny Krishara</CardTitle>
                         <CardDescription>
