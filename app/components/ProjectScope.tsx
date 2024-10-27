@@ -97,19 +97,24 @@ const ProjectScope = () => {
                 >
                     {[
                         {
-                            title: 'Identification & Classification',
+                            title: 'Public Speaking',
                             description:
-                                'Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.',
+                                'existing VR systems fail to offer real-time feedback, which is crucial for immediate improvement [3]. Additionally, these systems often lack the ability to dynamically adjust the complexity of scenarios based on user performance, limiting their overall effectiveness [3]. In contrast, the proposed VR application in this study incorporates real-time feedback and adjusts the audience size and complexity according to user progress. By leveraging Deepgram’s speech-to-text API, the system enables real-time analysis of filler words, repetition, pacing, grammar, and emotional tone, thus providing a more comprehensive and personalized assessment.',
                         },
                         {
-                            title: 'Severity Assessment',
+                            title: 'Critical Thinking',
                             description:
-                                'Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.',
+                                'Traditional methods like Socratic questioning and problem-based learning have been effective in fostering critical thinking but often fall short in engaging today’s digital-native students. Simulations and gamified experiences are more effective but are limited by the depth of interaction and adaptability to individual reasoning processes. Our study addresses this by implementing branching scenarios and real-time decision-making simulations that actively engage learners, fostering more dynamic critical thinking skills.',
                         },
                         {
-                            title: 'Information Sharing',
+                            title: 'Listening Skills',
                             description:
-                                'Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.',
+                                'Most educational tools for communication focus on reading comprehension over listening, which can impede students overall communication effectiveness. Current listening improvement solutions tend to be passive and lack interactivity, with few incorporating gamified experiences or tailored exercises. This research proposes a more engaging, interactive approach by introducing quizzes, customizable avatars, and gamified elements to assess and develop listening skills, fostering sustained learner engagement.',
+                        },
+                        {
+                            title: 'co-creation skills',
+                            description:
+                                'Existing collaboration tools are largely designed for asynchronous work, often lacking real-time communication features essential for effective teamwork. This absence of live interaction can reduce engagement and make team contributions less visible, which hinders co-creation skills. Furthermore, many platforms lack visual feedback on user activity, limiting real-time tracking of individual progress. This research aims to overcome these limitations by offering a collaborative platform with real-time interaction and visual contribution tracking, promoting inclusive and dynamic teamwork.',
                         },
                     ].map((item, index) => (
                         <motion.div
