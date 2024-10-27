@@ -27,7 +27,7 @@ const Downloads = () => {
 
                     </div>
                 </PinContainer>
-                <PinContainer
+                {/* <PinContainer
                     title="Project Charter"
                     href="https://drive.google.com/drive/folders/14gCsOroAZh7PYDI1_N39pj5srsokll5V?usp=sharing"
                 >
@@ -42,7 +42,7 @@ const Downloads = () => {
                         </div>
                         <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" />
                     </div>
-                </PinContainer>
+                </PinContainer> */}
                 <PinContainer
                     title="Prpposal"
                     href="https://drive.google.com/drive/folders/1B9ezbXgKzjl6V6or9T3MQX6O2buLGIaZ?usp=sharing"
