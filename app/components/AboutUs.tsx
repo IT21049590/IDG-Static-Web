@@ -38,7 +38,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/Hiruna.jpg" alt="Team Member" />
+                    <CardImage src="https://drive.google.com/file/d/1MrTsb5-QtGwR8KDId_CTl4-PyOM812N0/view?usp=sharing" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Lalanga S.P.H</CardTitle>
                         <CardDescription>
