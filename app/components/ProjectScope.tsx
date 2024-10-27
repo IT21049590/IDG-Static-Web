@@ -280,13 +280,13 @@ const ProjectScope = () => {
                         { src: '/IDG-Static-Web/react.png', alt: 'React', name: 'React' },
                         { src: '/IDG-Static-Web/flask.jpg', alt: 'Flask', name: 'Flask' },
                         { src: '/IDG-Static-Web/unity.png', alt: 'Unity', name: 'Unity' },
-                        { src: '/mongodb.png', alt: 'MongoDB', name: 'MongoDB' },
-                        { src: '/chatgpt.png', alt: 'ChatGPT', name: 'ChatGPT 3.5' },
-                        { src: '/docker.png', alt: 'Docker', name: 'Docker' },
-                        { src: '/kub8.png', alt: 'Kubernetes', name: 'Kubernetes' },
-                        { src: '/ThreeJs.png', alt: 'Three.js', name: 'Three.js' },
-                        { src: '/socket.io.png', alt: 'Socket.io', name: 'Socket.io' },
-                        { src: '/websocket.jpeg', alt: 'websocket', name: 'Websocket' },
+                        { src: '/IDG-Static-Web/mongodb.png', alt: 'MongoDB', name: 'MongoDB' },
+                        { src: '/IDG-Static-Web/chatgpt.png', alt: 'ChatGPT', name: 'ChatGPT 3.5' },
+                        { src: '/IDG-Static-Web/docker.png', alt: 'Docker', name: 'Docker' },
+                        { src: '/IDG-Static-Web/kub8.png', alt: 'Kubernetes', name: 'Kubernetes' },
+                        { src: '/IDG-Static-Web/ThreeJs.png', alt: 'Three.js', name: 'Three.js' },
+                        { src: '/IDG-Static-Web/socket.io.png', alt: 'Socket.io', name: 'Socket.io' },
+                        { src: '/IDG-Static-Web/websocket.jpeg', alt: 'websocket', name: 'Websocket' },
 
                     ].map((tech, index) => (
                         <motion.div
