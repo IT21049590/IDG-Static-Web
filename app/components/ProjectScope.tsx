@@ -86,7 +86,7 @@ const ProjectScope = () => {
                 </motion.h2>
                 <div className="w-1/2">
                     <p className="text-gray-300">
-                        Following areas are the research gaps found in most of the recent researches.
+                        Despite significant advancements in technology, gaps remain in leveraging digital tools to enhance essential inner development skills such as courage, critical thinking, communication, and co-creation.This research gap explores technological developments in four key areas of inner development: courage, critical thinking, communication, and co-creation skills
                     </p>
                 </div>
                 <motion.div
