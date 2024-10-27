@@ -24,7 +24,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    
+
                     <img src="/IDG-Static-Web/JennyMiss.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ms. Jenny Krishara</CardTitle>
@@ -39,7 +39,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="https://drive.google.com/file/d/1MrTsb5-QtGwR8KDId_CTl4-PyOM812N0/view?usp=sharing" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Hiruna.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Lalanga S.P.H</CardTitle>
                         <CardDescription>
@@ -53,7 +53,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/Ravishka.JPG" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Ravishka.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ranaweera G.R.D</CardTitle>
                         <CardDescription>
@@ -67,7 +67,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/Maneesha.jpg" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Maneesha.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Karunarathna K.M.P.M</CardTitle>
                         <CardDescription>
@@ -81,7 +81,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/Pravini.jpg" alt="Team Member" />
+                    <img src="/IDG-Static-Web/Pravini.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Wickramanayake V.P.P</CardTitle>
                         <CardDescription>
