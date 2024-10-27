@@ -15,7 +15,7 @@ const AboutUs = () => {
                         <CardTitle>Dr. Nuwan Kodagoda</CardTitle>
                         <CardDescription>
                             Sri Lanka Institute of Information Technology <br />
-                            <strong>Department:</strong> Software Engineering 
+                            <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
                             <a href="https://www.linkedin.com/in/nuwan-kodagoda-a4875a4/">LinkedIn</a>
@@ -24,12 +24,12 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/JennyMiss.jpg" alt="Team Member" />
+                    <CardImage src="https://it21049590.github.io/IDG-Static-Web/JennyMiss.jpg" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ms. Jenny Krishara</CardTitle>
                         <CardDescription>
                             Sri Lanka Institute of Information Technology <br />
-                            <strong>Department:</strong> Software Engineering 
+                            <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
                             <a href="https://www.linkedin.com/in/jenny-krishara-1a09a0111/">LinkedIn</a>
@@ -43,7 +43,7 @@ const AboutUs = () => {
                         <CardTitle>Lalanga S.P.H</CardTitle>
                         <CardDescription>
                             Sri Lanka Institute of Information Technology <br />
-                            <strong>Department:</strong> Software Engineering 
+                            <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
                             <a href="https://www.linkedin.com/in/hiruna-lalanga/">LinkedIn</a>
