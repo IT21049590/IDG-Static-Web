@@ -230,14 +230,14 @@ const ProjectScope = () => {
                     transition={{ delay: 0.5, duration: 1 }}
                 >
                     <div className="col-span-1">
-                        <Image
+                        {/* <Image
                             src="/sysOverviewD.png"
                             alt="Methodology Flow"
                             width={700}
                             height={500}
                             className="rounded-lg shadow-lg"
                             priority
-                        />
+                        /> */}
                         <img src="/IDG-Static-Web/sysOverviewD.png" alt="Coconut Export Stats" width="700" height="500" />
                         <p className="text-sm text-gray-400 mt-4">
                             Figure 2: System Overview Diagramn
@@ -295,7 +295,7 @@ const ProjectScope = () => {
                             className="flex flex-col justify-center items-center p-4 bg-gray-800 rounded-lg shadow-lg hover:bg-purple-600 transition-colors duration-300"
                             whileHover={{ scale: 1.1 }}
                         >
-                            <Image src={tech.src} alt={tech.alt} width={80} height={80} />
+                            <img src={tech.src} alt={tech.alt} width="80" height="80" />
                             <p className="text-white mt-4">{tech.name}</p>
                         </motion.div>
                     ))}
