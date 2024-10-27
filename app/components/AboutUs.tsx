@@ -10,7 +10,7 @@ const AboutUs = () => {
 
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 mt-10">
                 <Card>
-                    <img src="/IDG-Static-Web/public/NuwanSir.jpg" alt="Team Member" />
+                    <img src="/IDG-Static-Web/public/NuwanSir.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Dr. Nuwan Kodagoda</CardTitle>
                         <CardDescription>
@@ -24,7 +24,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="./JennyMiss.jpg" alt="Team Member" />
+                    <CardImage src="./JennyMiss.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ms. Jenny Krishara</CardTitle>
                         <CardDescription>
@@ -52,7 +52,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <CardImage src="/Ravishka.jpg" alt="Team Member" />
+                    <CardImage src="/Ravishka.JPG" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Ranaweera G.R.D</CardTitle>
                         <CardDescription>
