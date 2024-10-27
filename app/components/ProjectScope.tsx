@@ -276,10 +276,10 @@ const ProjectScope = () => {
                     transition={{ delay: 0.5, duration: 1 }}
                 >
                     {[
-                        { src: '/python.png', alt: 'Python', name: 'Python' },
-                        { src: '/react.png', alt: 'React', name: 'React' },
-                        { src: '/flask.jpg', alt: 'Flask', name: 'Flask' },
-                        { src: '/unity.png', alt: 'Unity', name: 'Unity' },
+                        { src: '/IDG-Static-Web/python.png', alt: 'Python', name: 'Python' },
+                        { src: '/IDG-Static-Web/react.png', alt: 'React', name: 'React' },
+                        { src: '/IDG-Static-Web/flask.jpg', alt: 'Flask', name: 'Flask' },
+                        { src: '/IDG-Static-Web/unity.png', alt: 'Unity', name: 'Unity' },
                         { src: '/mongodb.png', alt: 'MongoDB', name: 'MongoDB' },
                         { src: '/chatgpt.png', alt: 'ChatGPT', name: 'ChatGPT 3.5' },
                         { src: '/docker.png', alt: 'Docker', name: 'Docker' },
