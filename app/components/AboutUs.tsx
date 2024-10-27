@@ -10,7 +10,7 @@ const AboutUs = () => {
 
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 mt-10">
                 <Card>
-                    <CardImage src="/NuwanSir.jpg" alt="Team Member" />
+                    <img src="/IDG-Static-Web/NuwanSir.jpg" alt="Team Member" />
                     <div className="p-4">
                         <CardTitle>Dr. Nuwan Kodagoda</CardTitle>
                         <CardDescription>
