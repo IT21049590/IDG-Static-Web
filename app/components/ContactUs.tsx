@@ -63,7 +63,7 @@ const ContactUs = () => {
                     </p>
                     <p className="text-gray-300 mb-6">
                         You can also reach us at <br />
-                        <a href="mailto:researchcuba@gmail.com" className="text-green-400 underline">
+                        <a href="mailto:hiru.lalanga33@gmail.com" className="text-green-400 underline">
                             researchcuba@gmail.com
                         </a>
                     </p>
